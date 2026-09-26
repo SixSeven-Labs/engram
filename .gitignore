@@ -1,0 +1,11 @@
+# local-only, never published
+private/
+CLAUDE.md
+engram_private/
+*.local.*
+.env
+.env.*
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
